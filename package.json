@@ -1,0 +1,21 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Contenido creado partiendo del Curso de asincronismo en JavaScript de Platzi. 🤖🤖",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredoaguiararce/curso-asincronismo.git"
+  },
+  "keywords": [],
+  "author": "Alfredo Aguiar Arce <alfredoaguiararce@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredoaguiararce/curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/alfredoaguiararce/curso-asincronismo#readme"
+}
