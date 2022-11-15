@@ -21,3 +21,16 @@ countCows.then((result) => {
 }).finally(() => {
     console.log('Finish');
 });
+
+
+const Delay = (time, message) => {
+    return new Promise((resolve, reject) =>{
+        setTimeout(() => {
+            resolve(message)
+        }, time);
+    })
+};
+
+/* A promise chain. */
+Delay(2000, "Hola alfredo")
+.then((msg) => console.log(msg));
